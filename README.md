@@ -2,6 +2,9 @@
 
 A real-time web dashboard for monitoring SLURM cluster status, including GPU availability, partition information, node details, and job queue.
 
+<img width="1241" height="938" alt="tufts-systemstatus" src="https://github.com/user-attachments/assets/2f10b0ef-68aa-48d5-833b-e8fc24eb7a4f" />
+<img width="1253" height="626" alt="Screenshot 2025-12-18 at 11 03 19 AM" src="https://github.com/user-attachments/assets/491c4cdc-f72f-4b03-ade3-abba6d53fe8f" />
+
 ## Features
 
 - **Real-time Monitoring**: Auto-refreshes every 30 seconds (configurable)
